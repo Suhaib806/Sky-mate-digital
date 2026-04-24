@@ -14,7 +14,7 @@ const Hero = () => {
           playsInline
           className="absolute inset-0 w-full h-full object-cover blur-md scale-[1.08]"
         >
-          <source src="./src/assets/Video2.mp4" type="video/mp4" />
+          <source src="/Video2.mp4" type="video/mp4" />
         </video>
 
         {/* Dark overlay for text legibility */}
